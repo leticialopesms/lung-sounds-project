@@ -1,0 +1,15 @@
+name: lung_sounds
+channels:
+  - defaults
+dependencies:
+  - python=3.13.12
+  - pip=26.0.1
+  - pip:
+      - ipykernel=7.2.0
+      - librosa=0.11.0
+      - matplotlib=3.10.8
+      - numpy=2.4.4
+      - pandas=3.0.2
+      - requests=2.33.1
+      - torch=2.11.0
+      - torchvision=0.26.0
