@@ -8,5 +8,5 @@ Create and activate the Conda environment from `environment.yml`:
 
 ```bash
 conda env create -f environment.yml
-conda activate micpacs
+conda activate lung_sounds
 ```
